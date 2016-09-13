@@ -4,14 +4,14 @@
 					<div class="row ">
 						<div class="6u">
 							<div class="row collapse-at-2">
-								<section class="7u">
+								<section class="8u">
 									<h3>Our Projects</h3>
 									<ul class="links">
 										<li><a href="#">Fruits and Vegetables Online Shopping</a></li>
 										<li><a href="#">LPG Gas Database of Valley</a></li>
 									</ul>
 								</section>
-								<section class="5u">
+								<section class="4u">
 									<h3>Support Us</h3>
 									<ul class="links">
 									<!--	<li><a href="#">Facebook</a></li> -->
@@ -21,60 +21,18 @@
 								</section>
 							</div>
 						</div>
-						
-
-
-
-
-<section class="6u">
+						<section class="6u">
 							<h3>Message or Feedback</h3>
-
-
-
-
-<div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.7";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
-
-
-<div class="fb-comments"></div>
-
-
-
-							<!-- <form>
-								<div class="row half collapse-at-2">
-									<div class="6u">
-										<input type="text" name="name" id="name" placeholder="Name" />
+								<div id="fb-root"></div>
+								<script>(function(d, s, id) {
+  									var js, fjs = d.getElementsByTagName(s)[0];
+  									if (d.getElementById(id)) return;
+  									js = d.createElement(s); js.id = id;
+  									js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.7";
+  									fjs.parentNode.insertBefore(js, fjs);
+									}(document, 'script', 'facebook-jssdk'));</script>
+									<div class="fb-comments"></div>
 									</div>
-									<div class="6u">
-										<input type="email" name="email" id="email" placeholder="Email" />
-									</div>
-								</div>
-								<div class="row half">
-									<div class="12u">
-										<textarea name="message" id="message" placeholder="Message" rows="5"></textarea>
-									</div>
-								</div>
-								<div class="row half">
-									<div class="12u">
-										<ul class="actions">
-											<li><input type="submit" class="button alt" value="Send Message" /></li>
-										</ul>
-									</div>
-								</div>
-							</form> -->
-						</section>
-
-
-
-
-
-					</div>
 				</div>
 		<!-- Copyright -->
 					<div class="copyright">
