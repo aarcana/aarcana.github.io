@@ -2,10 +2,10 @@
 <html>
 <body>
 		<!-- Footer -->
-			<div id="footer">
+			<div align="center"><div id="footer">
 				<div class="container">
 					<div class="row ">
-						<div class="u">
+						<div class="12u">
 							<div class="row collapse-at-2">
 								<section class="6u">
 									<h3>Our Projects</h3>
@@ -25,7 +25,7 @@
 							</div>
 						</div>
 					</div>
-				</div>
+				</div></div>
 		<!-- Copyright -->
 					<div class="copyright">
 					<p>&copy; Aarcana. All rights reserved</p>
