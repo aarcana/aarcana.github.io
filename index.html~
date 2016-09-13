@@ -6,7 +6,7 @@ layout: default
 <!-- Banner -->
 	<section id="banner">
 		<header>
-			<h2>Here we will keep our group photo and logo</h2>
+			<h2>Instead of this image we will keep our group photo and logo</h2>
 <!--			<a href="#" class="button">Know More About Us</a>  --> 
 		</header>  
 	</section>
@@ -59,7 +59,7 @@ layout: default
 						<a href="#" class="image left"><img src="{{ site.baseurl }}/assets/images/ranjan.JPG" alt="Ranjan Bir Bajracharya" /></a>
 						<div class="inner">
 							<h3>Ranjan Bir Bajracharya</h3>
-							<p>Ranjan is founder and team leader of Aarcana. He is currently a Miscrosoft Student Partner for the year 2016/2017 and a enthusiast of new gadgets. He aims to see himself as a .NET programmer along with the project "Aarcana"</p>
+							<p>Ranjan is founder and team leader of Aarcana. He is currently a Miscrosoft Student Partner for the year 2017 and a enthusiast of new gadgets. He aims to see himself as a .NET programmer along with the project "Aarcana"</p>
 						</div>
 					</div>
 				</section>
@@ -68,7 +68,7 @@ layout: default
 						<a href="#" class="image left"><img src="{{ site.baseurl }}/assets/images/sarad.JPG" alt="Sarad Gajurel" /></a>
 						<div class="inner">
 							<h3>Sarad Gajurel</h3>
-							<p>Sarad is co-founder of the team and is currently involved in environmental scanning for the requirements of community. He is a cloud worker and leaning in the pathway of being a successful Database Administrator as well as a sustainer of "Aarcana". </p>
+							<p>Sarad is founder of the team and is currently involved in environmental scanning for the requirements of community. He is a cloud worker and prospecting in the pathway of being a successful Database Administrator as well as a sustainer of "Aarcana". </p>
 						</div>
 					</div>
 				</section>
@@ -76,11 +76,10 @@ layout: default
 			<div class="row">
 				<section class="6u">
 					<div class="box post">
-						<a href="#" class="image left"><img src="{{ site.baseurl }}/assets/images/deepak.jpg" alt="Deepak Lal Karna" /></a>
+						<a href="#" class="image left"><img src="{{ site.baseurl }}/assets/images/deepak.JPG" alt="Deepak Lal Karna" /></a>
 						<div class="inner">
 							<h3>Deepak Lal Karna</h3>
-						</div>
-							<p>Deepak is co-founder of the team as well as researcher of new ideas that can be beneficial for the society. Networking and cryptography are the major interests of him and has an ambition to become a web developer using the platform of Ruby and Rails.</p>
+							<p>Deepak is founder of the team as well as researcher of new ideas that can be beneficial for the society. Networking and cryptography are his major interests and has an ambition to become a web developer using the platform of Ruby on Rails.</p>
 					</div>
 				</section>
 				<section class="6u">
@@ -88,7 +87,7 @@ layout: default
 						<a href="#" class="image left"><img src="{{ site.baseurl }}/assets/images/rujan.jpg" alt="Rujan Shakya" /></a>
 						<div class="inner">
 							<h3>Rujan Shakya</h3>
-							<p>Rujan is co-founder of team and does analysis on each and every aspects of the project. Playing with the codes of Java and Python is his main hobby which persuaded him to set his goal to become a successful coder.</p>
+							<p>Rujan is founder of team and does analysis on each and every aspects of the project. Playing with the codes of Java and Python is his main hobby which persuaded him to set his goal to become a successful coder.</p>
 						</div>
 					</div>
 				</section>

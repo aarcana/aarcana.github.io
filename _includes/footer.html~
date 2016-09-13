@@ -1,18 +1,12 @@
+<!DOCTYPE HTML>
+<html>
+<body>
 		<!-- Footer -->
 			<div id="footer">
 				<div class="container">
 					<div class="row ">
-						<div class="6u">
+						<div class="u">
 							<div class="row collapse-at-2">
-								<section class="6u">
-									<h3>Support Us</h3>
-									<ul class="links">
-										<li><a href="#">Facebook</a></li>
-										<a href="https://twitter.com/aarcana1" target="_self" name="Follow Us on Twitter" title="Follow Us">Twitter</a>
-										<li><a href="https://plus.google.com/115838853758877455449" target="_self" name="Google+" title="Be in our circle">Google+</a></li>
-										<li><a href="#">Blog</a></li>
-									</ul>
-								</section>
 								<section class="6u">
 									<h3>Our Projects</h3>
 									<ul class="links">
@@ -20,54 +14,23 @@
 										<li><a href="#">LPG Gas Database of Valley</a></li>
 									</ul>
 								</section>
+								<section class="6u">
+									<h3>Support Us</h3>
+									<ul class="links">
+									<!--	<li><a href="#">Facebook</a></li> -->
+										<a href="https://twitter.com/aarcana1" target="_self" name="Follow Us on Twitter" title="Follow Us">Twitter</a>
+										<li><a href="https://plus.google.com/115838853758877455449" target="_self" name="Google+" title="Join Our Circle">Google+</a></li>
+									</ul>
+								</section>
 							</div>
 						</div>
-<!--						<section class="6u">
-							<h3>Get In Touch</h3>
-							<form>
-								<div class="row half collapse-at-2">
-									<div class="6u">
-										<input type="text" name="name" id="name" placeholder="Name" />
-									</div>
-									<div class="6u">
-										<input type="email" name="email" id="email" placeholder="Email" />
-									</div>
-								</div>
-								<div class="row half">
-									<div class="12u">
-										<textarea name="message" id="message" placeholder="Message" rows="5"></textarea>
-									</div>
-								</div>
-								<div class="row half">
-									<div class="12u">
-										<ul class="actions">
-											<li><input type="submit" class="button alt" value="Send Message" /></li>
-										</ul>
-									</div>
-								</div>
-							</form>
-						</section>		-->
 					</div>
 				</div>
-
-				<!-- Icons -->
-<!--					<ul class="icons">
-						<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
-						<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
-						<li><a href="#" class="icon fa-github"><span class="label">GitHub</span></a></li>
-						<li><a href="#" class="icon fa-linkedin"><span class="label">LinkedIn</span></a></li>
-						<li><a href="#" class="icon fa-google-plus"><span class="label">Google+</span></a></li>
-					</ul>
-
-				<!-- Copyright -->
+		<!-- Copyright -->
 					<div class="copyright">
 					<p>&copy; Aarcana. All rights reserved</p>
-<!--						<ul class="menu">
-							<li>&copy; Aarcana. All rights reserved</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li><li> Jekyll Template: <a href="http://cloudcannon.com">Cloud Cannon</a></li>  -->
 						</ul>
 					</div>
-
 			</div>
-
 	</body>
 </html>
