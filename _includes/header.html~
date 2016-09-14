@@ -17,10 +17,6 @@
 		</noscript>
 		</head>
 	<body>
-	
-	<!-- Logo -->
-					<h1><a href="{{ site.baseurl }}/index.html" id="logo">Arcana <em>by HTML5 UP</em></a></h1>
-				
 				<!-- Nav -->
 					<nav id="nav">
 						<ul>
